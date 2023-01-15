@@ -53,4 +53,4 @@ I like playing with complex projects. Built some projects for web and servers-si
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/codesculpture"><img src="https://github-readme-stats.vercel.app/api?username=codesculpture&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesculpture's GitHub stats" /></a>
+[![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesculpture)]("https://github.com/codesculpture/")
