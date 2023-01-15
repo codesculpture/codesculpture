@@ -10,7 +10,7 @@ I like playing with complex projects. Built some projects for web and servers-si
 * ✉️  You can contact me at [aravindprodev@gmail.com](mailto:aravindprodev@gmail.com)
 * 🧠  I'm learning SDLC and Architecture Things more theoretically and practically by Building them
 * 🤝  I'm open to collaborating on Real-time application and Automating CI and CD Pipelines
-* ⚡  Just want to learn how we are doing and what we are doing
+* ⚡  Interested in Quantum Copmuting, Competitive Programming and also Math✍️
 
 ### Skills
 
