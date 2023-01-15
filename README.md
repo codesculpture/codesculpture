@@ -1,4 +1,4 @@
-Its Deepak Aravind - to explore everything
+Its <i>Deepak Aravind</i> - to explore everything
 ======================================================================================================================================
 
 Devops and Full Stack Developer
