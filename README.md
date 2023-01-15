@@ -6,11 +6,15 @@ Devops and Full Stack Developer
 
 I like playing with complex projects. Built some projects for web and servers-side. I was started working Javascript and Java (Bad Combo). Now i have learned than that (little much). Love to contributing!
 
-*   🌍  I'm based in Tamilnadu
-*   ✉️  You can contact me at [aravindprodev@gmail.com](mailto:aravindprodev@gmail.com)
-*   🧠  I'm learning SDLC and Architecture Things more theoretically and practically by Building them
-*   🤝  I'm open to collaborating on Real-time application and Automating CI and CD Pipelines
-*   ⚡  Just want to learn how we are doing and what we are doing### Skills 
+* 🌍  I'm based in Tamilnadu
+* ✉️  You can contact me at [aravindprodev@gmail.com](mailto:aravindprodev@gmail.com)
+* 🧠  I'm learning SDLC and Architecture Things more theoretically and practically by Building them
+* 🤝  I'm open to collaborating on Real-time application and Automating CI and CD Pipelines
+* ⚡  Just want to learn how we are doing and what we are doing
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -39,17 +43,14 @@ I like playing with complex projects. Built some projects for web and servers-si
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/codesculpture" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/deepak-aravind-010b83209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@aravindprodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/16690329/deepak-aravind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/codesculpture"><img src="https://github-readme-stats.vercel.app/api?username=codesculpture&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesculpture's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/codesculpture" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deepak-aravind-010b83209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@aravindprodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16690329/deepak-aravind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/codesculpture"><img src="https://github-readme-stats.vercel.app/api?username=codesculpture&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesculpture's GitHub stats" /></a>
