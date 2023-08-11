@@ -1,7 +1,7 @@
 Its <i>Aravind</i> - to explore everything
 ======================================================================================================================================
 
-Devops and Full Stack Developer
+Mobile and Full Stack Developer
 -------------------------------
 
 I like playing with complex projects. Built some projects for web and servers-side. I was started working Javascript and Java (Bad Combo). Now i have learned than that (little much). Love to contributing!
